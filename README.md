@@ -73,7 +73,7 @@ I am a Software Developer with hands-on experience in **full-stack web developme
 - JWT authentication & role-based access (Admin/User)
 - Scalable backend architecture
 
-**[🌱 ElevaApp](https://eleva-app-gold.vercel.app)** 
+**🌱 [ElevaApp](https://eleva-app-gold.vercel.app)** 
 - Serverless health & nutrition platform (TypeScript, React, AWS, Tailwind CSS)
 - Event-driven microservices backend deployed via AWS CDK (IaC) with 19 Lambdas & 5 DynamoDB tables
 - AI insights powered by AWS Bedrock, secure JWT auth via Amazon API Gateway & Cognito
